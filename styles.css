@@ -1,12 +1,13 @@
 
 /* Your CSS Code here. */
-.div1{
+#div1{
 	width:200px;
 	background-color:purple;
-	border-left:5px green solid;
+	border-left:5px solid;
+	border-left-color:green;
 	padding:10px;
 }
-h1{
+#heading{
 	font-size:20px;
 	color:white;
 	text-decoration:underline;
